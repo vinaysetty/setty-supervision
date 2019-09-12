@@ -29,7 +29,9 @@ of your paper. The ideal workflow looks as follows:
     - add a readme.txt file with (i) an explanation of how to run the software, (ii)
        a rough description of the architecture of the project so that it is easier for
        someone to understand the code and how the classes relate to each other, and
-       (iii) a list of papers that this software was used for^1.
+       (iii) a list of papers that this software was used for. Many PhD students extend a system iteratively and build upon a previous version for the next paper.
+As the changes might have an influence on the runtimes, each paper still needs to be archived along
+with its own copy of the source code (no references to other folders).
 4. PhD thesis completed
     - make sure everything concerning the thesis is archived
 
@@ -38,14 +40,14 @@ code might be archived multiple times for different papers: this is acceptable. 
 difference to this rule are big datasets: in such a case, please talk to your supervisor and
 the AM.
 
-(^1) Many PhD students extend a system iteratively and build upon a previous version for the next paper.
-As the changes might have an influence on the runtimes, each paper still needs to be archived along
-with its own copy of the source code (no references to other folders).
+
 
 
 ## 2 Where to archive
 
 /home/prosjekt/deepnews/archive on linux cluster (badne5.ux.uis.no) accessible from any *.ux.uis.no
+
+You need to upload everything under the folder with your username (/home/prosjekt/deepnews/archive/<yourusername>). If the folder for your username does not yet exist, contact the AM.
 
 ## 3 What to archive
 
@@ -83,9 +85,6 @@ ing items (each in a separate subfolder with the indicated name):
     the software that you used to run the experiments for the paper incl. a readme.txt
     file explaining in detail (list of commands) how to run teh software
 
-(^2) This means that if you archive from outside the university, you have to use a VPN client or use UiS’s
-ssh gateway server (ssh.ux.uis.no).
-(^3) If the folder for your user ID does not yet exist, contact the AM.
 
 
 - One/multiple file(s) (zip) with all sources (not just executables or package
@@ -114,8 +113,8 @@ experimental results, incl. the measures you have taken during the experiments
 log files, how to create these figures from the measures, how to run each of the
 experiments in the paper (best: list of commands – make sure to mention which
 datasets (file names) were used for which experiment), etc.
-- opponents
-the sources of the opponent systems that you compared against incl. a descrip-
+- opponents/baselines
+the sources of the baseline systems that you compared against incl. a descrip-
 tion of how to run them (a description of how to they were run/tuned for the
 experiments should be given under “experiments”)
 - presentation
