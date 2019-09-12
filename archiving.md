@@ -178,8 +178,7 @@ In general:
 For tof you not very familiar with linux commands, the server can also be accessed
 via hftp, e.g., using a tool such as FileZilla. A useful linux command for copying a
 complete local folder (ICTIR2019setty ein this example) is:
-scp -r ICTIR2019setty <unix_user>@badne5.ux.uis.no:/home/prosjekt/deepnews/archive
-upload/<user>/papers/
+scp -r ICTIR2019setty <unix_user>@badne5.ux.uis.no:/home/prosjekt/deepnews/archive/<user>/papers/
 
 
 ## 5 Publishing and licensing
