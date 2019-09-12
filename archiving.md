@@ -32,7 +32,7 @@ of your paper. The ideal workflow looks as follows:
        (iii) a list of papers that this software was used for. Many PhD students extend a system iteratively and build upon a previous version for the next paper.
 As the changes might have an influence on the runtimes, each paper still needs to be archived along
 with its own copy of the source code (no references to other folders).
-4. PhD thesis completed
+4. PhD/Masters/Bachelor thesis completed
     - make sure everything concerning the thesis is archived
 
 Note that there is some redundancy in the archiving policy, i.e., the same (or similar)
