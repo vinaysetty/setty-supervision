@@ -2,7 +2,7 @@
 
 ## Vinay Setty
 
-### vsetty@acm.org
+### vinay.j.setty@uis.no
 
 ### Goals
 
@@ -12,7 +12,7 @@ contained in publications and share the software that produced them.
 
 ### Archive manager (AM)
 
-Vinay Setty (vsetty@acm.org)
+Vinay Setty (vinay.j.setty@uis.no)
 
 ## 1 When to archive
 
