@@ -5,7 +5,7 @@ This wiki contains information and resources related to BSc/MSc project/thesis s
 
 ## Essential
 
-  * [Rules of supervision](Rules.md)
+  * [Rules of supervision](supervison-rules.md)
 
 
 ## Examples
