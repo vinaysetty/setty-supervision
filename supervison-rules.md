@@ -3,7 +3,7 @@
 There are a few simple rules I expect every supervised student to follow:
 
   1. **Meetings.** Either agree on a regular weekly half an hour timeslot that is used throughout the semester or for irregular meetings, make an appointment in email. If you show up unannounced, there is a good chance that I'll have to turn you away because I'm busy with other things.
-  1. **Keep minutes of meetings.** Specifically, the followings should be recorded for each meeting (see [ExampleMinutes](ExampleMinutes)):
+  1. **Keep minutes of meetings.** Specifically, the followings should be recorded for each meeting (see [ExampleMinutes](ExampleMinutes.md)):
       - What was discussed?
       - What are your todos?
       - What are my todos?
