@@ -17,3 +17,11 @@ This wiki contains information and resources related to BSc/MSc project/thesis s
 
   * You may use the oveleaf template [here](https://www.overleaf.com/read/smhjsgxbtytb)
   * **Please take a look** at the [IAI style guide](https://github.com/iai-group/styleguide) for conventions on writing and coding.
+
+### Bachelor thesis timeline
+   
+   * TBD
+
+### Masters thesis timeline
+
+   * TBD
