@@ -21,7 +21,8 @@ This wiki contains information and resources related to BSc/MSc project/thesis s
 
 ### Bachelor thesis timeline
    
-   * Problem definition and experimental setup: 31. Jan
+   * Problem definition: 15. Jan
+   * Experimental setup: 31. Jan
    * Literature review: 15. Feb
    * First experiments/demo: 1. Mar
    * First draft of the thesis for review: 1. April
@@ -32,7 +33,8 @@ This wiki contains information and resources related to BSc/MSc project/thesis s
 
 ### Masters thesis timeline
 
-   * Problem definition and experimental setup: 31. Jan
+   * Problem definition: 15. Jan
+   * Experimental setup: 31. Jan
    * First literature review: 15. Feb
    * First experiments/demo: 15. Mar
    * Second literature review: 1. April
