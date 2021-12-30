@@ -47,4 +47,5 @@ This wiki contains information and resources related to BSc/MSc project/thesis s
    
    * For thesis done in groups, equal contributions from all group members is expected
    * In general groups have freedom to divide the tasks among themselves. If you are finding it hard to divide tasks then I can intervene.
+   * In case of conflicts within the group bring it to my attention ASAP
    * Groups need to sign the authorship declaration [see here](https://www.uis.no/sites/default/files/2021-11/Group%20contract%20for%20bachelor%27s%20and%20master%27s%20thesis.pdf)
