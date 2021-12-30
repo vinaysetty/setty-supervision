@@ -21,10 +21,26 @@ This wiki contains information and resources related to BSc/MSc project/thesis s
 
 ### Bachelor thesis timeline
    
-   * Final deadline: 
+   * Problem definition and experimental setup: 31. Jan
+   * Literature review: 15. Feb
+   * First experiments/demo: 1. Mar
+   * First draft of the thesis for review: 1. April
+   * Further experiments/demo: 15. April
+   * Final experiments/demo: 25. April
+   * Final draft to review (after several rounds of reviews and comments) 1. May
+   * Final deadline: 15. May
 
 ### Masters thesis timeline
 
+   * Problem definition and experimental setup: 31. Jan
+   * First literature review: 15. Feb
+   * First experiments/demo: 15. Mar
+   * Second literature review: 1. April
+   * Second experiments/demo: 15. April
+   * First draft of the thesis for review: 1. May
+   * Further experiments/demo: 15. May
+   * Final experiments/demo: 25. May
+   * Final draft to review (after several rounds of reviews and comments) 1. June
    * Final deadline: 15. June
 
 ### Group thesis
