@@ -8,10 +8,7 @@ This wiki contains information and resources related to BSc/MSc project/thesis s
   * [Rules of supervision](supervison-rules.md)
 
 
-## Examples
-
-  * [Example wiki home](ExampleWikiHome.md)
-  * [Example minutes page](ExampleMinutes.md)
+## Meetings notes examples you can follow the tempalte in a [Google doc](https://docs.google.com/document/d/1rXrqKV7CYZxWgo4pQ6a7bW9CB78yH-Xf1vTLBJiDFUE/edit#heading=h.ku1kj1txu8bx). 
 
 ### Thesis LaTeX templates
 
